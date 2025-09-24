@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("New changes");
+            char[] chars = { 'a', 'b', 'c' };
         }
     }
 }
